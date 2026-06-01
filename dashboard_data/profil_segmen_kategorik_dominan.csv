@@ -1,0 +1,15 @@
+cluster,variabel,kategori_dominan,jumlah,persentase
+1,jenis_kelamin,Perempuan,308,62.73
+1,semester,Semester 6,71,14.46
+1,uang_saku_bulanan,Rp500.000 – Rp999.999,101,20.57
+1,jenis_transaksi_dominan,Pembelian makanan/minuman,172,35.03
+1,ewallet_utama,DANA,197,40.12
+1,niat_lanjut,Berniat,263,53.56
+1,kepuasan,4.0,262,53.36
+2,jenis_kelamin,Perempuan,46,58.97
+2,semester,Semester 2,13,16.67
+2,uang_saku_bulanan,Kurang dari Rp500.000,17,21.79
+2,jenis_transaksi_dominan,Pembelian makanan/minuman,30,38.46
+2,ewallet_utama,DANA,27,34.62
+2,niat_lanjut,Tidak berniat,60,76.92
+2,kepuasan,2.0,58,74.36

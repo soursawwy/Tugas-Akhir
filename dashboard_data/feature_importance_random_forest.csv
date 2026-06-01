@@ -1,0 +1,14 @@
+fitur,importance
+S2_kemudahan_mean,0.1931
+S4_kepercayaan_mean,0.1667
+S5_promo_insentif_mean,0.1615
+S3_keamanan_mean,0.1443
+S6_persepsi_risiko_mean,0.1152
+S1_kegunaan_mean,0.1111
+promo_memengaruhi_encoded,0.0602
+frekuensi_pindah_promo_encoded,0.0439
+pengeluaran_ewallet_bulanan_encoded,0.0012
+frekuensi_penggunaan_encoded,0.0011
+jumlah_ewallet_aktif_clean,0.0011
+nominal_transaksi_encoded,0.0003
+lama_penggunaan_encoded,0.0003
