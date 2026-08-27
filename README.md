@@ -106,7 +106,3 @@ Jalankan dashboard:
 ```bash
 streamlit run app.py
 ```
-
-## Catatan Privasi
-
-Jangan upload dataset mentah Google Form ke repository publik. Untuk dashboard publik, gunakan file ringkasan dan hasil agregat.
